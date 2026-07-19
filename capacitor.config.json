@@ -1,0 +1,13 @@
+{
+  "appId": "io.github.arikashimaru.wardtrack",
+  "appName": "WardTrack",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#080d17",
+    "allowMixedContent": false,
+    "adjustMarginsForEdgeToEdge": "force"
+  }
+}
